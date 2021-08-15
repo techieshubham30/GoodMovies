@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid;
+  width: 40vw;
+  margin: auto;
+  background-color: #be185d;
+  border-radius: 2rem;
+  color: white;
+}
+
+button {
+  margin: 0.5rem;
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 10vw;
+  font-size: larger;
+}
+
+li {
+  list-style: none;
+  border: 1px solid silver;
+  border-radius: 1rem;
+  padding-top: 1rem;
+  font-size: larger;
+  width: 30vh;
+  margin: 1rem;
+}
+
+.list {
+  width: 40vw;
+  height: 30vh;
+  margin: auto;
+  padding-left: 2rem;
+}
+
+button:hover {
+  transform: scale(1.2);
+}
